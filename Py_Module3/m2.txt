@@ -1,0 +1,2 @@
+There are three ways in which you can Remove elements from List: Using the remove() method. 
+Using the list object's pop() method. Using the del operator.

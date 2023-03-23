@@ -1,0 +1,4 @@
+Lists are used to store multiple items in a single variable. 
+Lists are one of 4 built-in data types in Python used to store collections of data
+
+In Python, a built-in function called reverse() is used to reverse the list. 
